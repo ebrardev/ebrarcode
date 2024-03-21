@@ -2,7 +2,7 @@ export const personalData = {
   name: "Ebrar Altunkaynak",
   profile: '/profile.png',
   designation: "Software Enginer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+ description: "hi I am Ebrar Altunkaynak, a software engineer   who loves to build web applications and solve problems. I am passionate about learning new technologies and sharing my knowledge with others. I am a self-taught developer and I have been working as a software engineer for 2 years. I have experience in building web applications using modern technologies like React, Node.js, and Express.js. I am also familiar with cloud platforms like AWS and Azure. I am always open to new opportunities and challenges. Feel free to contact me if you have any questions or want to work with me.",
   email: 'altunkaynakebrar@gmail.com',
   phone: '+90 553 589 59 90',
   address: 'Ankara, Turkey',
