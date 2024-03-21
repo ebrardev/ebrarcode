@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Engineer ',
-    company: "Biletiniz .",
+    company: "Biletiniz",
     duration: "(August 2023 - October 2023)"
   },
   {
