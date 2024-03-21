@@ -17,11 +17,7 @@ function Navbar() {
       `;
       const modifiedHeart = heart.replaceAll('*', '❤️')
       console.log(modifiedHeart);
-      console.log("Nasıl olur sensizlik");
-      console.log("Umulmadık bir akşam üstü");
-      console.log("Ruhu gölgesiz birakan güzelliğinde");
-      console.log("rariram");
-
+      console.log("HIRE ME! <3");
       alert("I'm glad you're interested in hiring me! 😊")
     };
 
