@@ -17,6 +17,7 @@ function Navbar() {
       `;
       const modifiedHeart = heart.replaceAll('*', '❤️')
       console.log(modifiedHeart);
+      console.log("HIRE ME! <3");
       alert("I'm glad you're interested in hiring me! 😊")
     };
 
@@ -38,7 +39,7 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center">
           <Link
             href="/"
-            className=" text-[#16f2b3] text-3xl font-bold">
+            className=" text-[#0cd4f7] text-3xl font-bold">
            Ebrardev
           </Link>
         </div>
